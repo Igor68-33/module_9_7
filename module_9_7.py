@@ -19,7 +19,7 @@ def sum_three(one, two, three):
     return sum((one, two, three))
 
 
-result = sum_three(5, 0, 0)
+result = sum_three(2, 3, 6)
 print(result)
 
 # Результат консоли:
